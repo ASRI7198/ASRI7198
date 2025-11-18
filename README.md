@@ -101,7 +101,7 @@ My goal is to create robust, impactful technologies in generative AI, NLP, intel
 **👉 More projects available on my GitHub pages — feel free to explore!**
 
 <p align="center">
-  <img src="2.gif" width="500" />
+  <img src="2.gif" width="400" />
 </p>
 
 ---
