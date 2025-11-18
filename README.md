@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="1.gif" width="350" />
+  <img src="1.gif" width="500" />
 </p>
 
 # 👋 Hi, I'm **Rida ASRI**
@@ -101,7 +101,7 @@ My goal is to create robust, impactful technologies in generative AI, NLP, intel
 **👉 More projects available on my GitHub pages — feel free to explore!**
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" />
+  <img src="2.gif" width="500" />
 </p>
 
 ---
