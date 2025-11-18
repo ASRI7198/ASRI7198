@@ -61,7 +61,7 @@ My goal is to create robust, impactful technologies in generative AI, NLP, intel
 - Spatio-temporal modeling & satellite image segmentation  
 - Validation with **Choco Solver**  
 - 🔧 Python, PyTorch, GeoPandas, Java
-➡️ **https://github.com/ASRI7198/CSP-GNN-Analyse-et-l-explication-de-l-artificialisation-des-sols-partir-d-images-HR.git**
+- ➡️ **https://github.com/ASRI7198/CSP-GNN-Analyse-et-l-explication-de-l-artificialisation-des-sols-partir-d-images-HR.git**
 
 ---
 
@@ -69,14 +69,14 @@ My goal is to create robust, impactful technologies in generative AI, NLP, intel
 - Developed a **3D Vision Transformer** model for medical OCT images  
 - Added interpretability tools (XAI)  
 - 🔧 PyTorch, MONAI, Captum
-➡️ **https://github.com/ASRI7198/Classification-d-Images-M-dicales-avec-Vision-Transformers-et-M-thodes-d-Interpr-tabilit-.git** 
+- ➡️ **https://github.com/ASRI7198/Classification-d-Images-M-dicales-avec-Vision-Transformers-et-M-thodes-d-Interpr-tabilit-.git** 
 
 ---
 
 ### 🛒 UCD El Jadida — Web Developer Intern (2022)
 - Built a full e-commerce platform (frontend + backend)  
 - 🔧 Java EE, JSP/Servlets, Hibernate, MySQL
-➡️ **https://github.com/ASRI7198/Application-web-site-e-commerce.git**
+- ➡️ **https://github.com/ASRI7198/Application-web-site-e-commerce.git**
 
 ---
 
@@ -93,6 +93,8 @@ My goal is to create robust, impactful technologies in generative AI, NLP, intel
 
 ### 📺 Streaming Platforms Visualization  
 ➡️ **https://github.com/ismailchakrane/StreamViz.git**
+
+**👉 More projects available on my GitHub pages — feel free to explore!**
 
 ---
 
