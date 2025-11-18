@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" />
+</p>
+
 # 👋 Hi, I'm **Rida ASRI**
 ### 💡 *Data Scientist & Machine Learning Engineer — AI, NLP, Deep Learning, Graph Intelligence*
 
@@ -95,6 +99,10 @@ My goal is to create robust, impactful technologies in generative AI, NLP, intel
 ➡️ **https://github.com/ismailchakrane/StreamViz.git**
 
 **👉 More projects available on my GitHub pages — feel free to explore!**
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" />
+</p>
 
 ---
 
