@@ -95,8 +95,9 @@ My goal is to create robust, impactful technologies in generative AI, NLP, intel
 
 ## 📫 Contact  
 - 📧 Email: **reda.asrihup@gmail.com**  
-- 🐙 GitHub: **@ASRI7198**  
-- 📍 Toulouse / France  
+- 🐙 GitHub: **@ASRI7198**
+- 💼 LinkedIn: **www.linkedin.com/in/asririda** 
+- 📍 Paris / France  
 
 ---
 
