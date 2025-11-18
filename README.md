@@ -60,36 +60,39 @@ My goal is to create robust, impactful technologies in generative AI, NLP, intel
 - Designed a hybrid **GNN + CSP** method for soil artificialization detection  
 - Spatio-temporal modeling & satellite image segmentation  
 - Validation with **Choco Solver**  
-- 🔧 Python, PyTorch, GeoPandas, Java  
+- 🔧 Python, PyTorch, GeoPandas, Java
+➡️ **https://github.com/ASRI7198/CSP-GNN-Analyse-et-l-explication-de-l-artificialisation-des-sols-partir-d-images-HR.git**
 
 ---
 
 ### 🩺 LaTIM & Evolucare — AI Intern (2024)
 - Developed a **3D Vision Transformer** model for medical OCT images  
 - Added interpretability tools (XAI)  
-- 🔧 PyTorch, MONAI, Captum  
+- 🔧 PyTorch, MONAI, Captum
+➡️ **https://github.com/ASRI7198/Classification-d-Images-M-dicales-avec-Vision-Transformers-et-M-thodes-d-Interpr-tabilit-.git** 
 
 ---
 
 ### 🛒 UCD El Jadida — Web Developer Intern (2022)
 - Built a full e-commerce platform (frontend + backend)  
-- 🔧 Java EE, JSP/Servlets, Hibernate, MySQL  
+- 🔧 Java EE, JSP/Servlets, Hibernate, MySQL
+➡️ **https://github.com/ASRI7198/Application-web-site-e-commerce.git**
 
 ---
 
 ## 📁 Academic Projects
 
 ### 🎮 Pokémon Team Optimization with LLMs  
-➡️ `PK-LM`
+➡️ **https://github.com/ASRI7198/PK-LM.git**
 
 ### 🚗 Spatio-Temporal Risk Prediction  
-➡️ `CNN-LSTM-Carla`
+➡️ **https://github.com/ASRI7198/Extraction-des-informations-spatio-temporelle-pour-la-pr-dication-des-risques.git**
 
 ### 🕺 Skeleton-to-Image Motion Transfer (GANs)  
-➡️ `GANs-Image`
+➡️ **https://github.com/ASRI7198/Transfert-de-Mouvement-l-aide-de-GANs-Du-Squelette-l-Image-R-aliste.git**
 
 ### 📺 Streaming Platforms Visualization  
-➡️ `StreamViz`
+➡️ **https://github.com/ismailchakrane/StreamViz.git**
 
 ---
 
