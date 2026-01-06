@@ -103,7 +103,6 @@ My goal is to create robust, impactful technologies in generative AI, NLP, intel
 <p align="center">
   <img src="2.gif" width="400" />
 </p>
----
 
 ### 🚀 New Project : LLM-GNN-Analyse de graphes urbains et similarit de villes
 ➡️ **https://github.com/ASRI7198/LLM-GNN-Analyse-de-graphes-urbains-et-similarit-de-villes.git**
