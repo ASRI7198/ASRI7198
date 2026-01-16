@@ -70,11 +70,6 @@ My goal is to create robust, impactful technologies in generative AI, NLP, intel
 
 ---
 
-### 🚀 New experience: freelance work in September (1 month) for a client in Italy
-➡️ **https://github.com/ASRI7198/LLM-GNN-Analyse-de-graphes-urbains-et-similarit-de-villes.git**
-
----
-
 ### 🔬 INRAE Montpellier — AI Intern (2025)
 - Designed a hybrid **GNN + CSP** method for soil artificialization detection  
 - Spatio-temporal modeling & satellite image segmentation  
@@ -118,6 +113,11 @@ My goal is to create robust, impactful technologies in generative AI, NLP, intel
 <p align="center">
   <img src="2.gif" width="400" />
 </p>
+
+---
+
+### 🚀 New Project : LLM-GNN-Analyse de graphes urbains et similarit de villes
+➡️ **https://github.com/ASRI7198/LLM-GNN-Analyse-de-graphes-urbains-et-similarit-de-villes.git**
 
 
 ## 📫 Contact  
