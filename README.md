@@ -60,6 +60,14 @@ My goal is to create robust, impactful technologies in generative AI, NLP, intel
 
 ## 📚 Professional Experience
 
+### 🚀 New experience: freelance work from October to December (3 months) for a client in the United States
+➡️ **https://github.com/ASRI7198/From-Classical-NLP-Models-to-Large-Language-Models-for-Sentiment-Analysis.git**
+
+- Mission freelance de 3 mois pour un client aux États-Unis : développement d’un système d’analyse de sentiments à partir de données textuelles.
+- Implémentation et comparaison de modèles RNN, LSTM et BERT, avec une précision maximale de 92,6 % (BERT).
+- Exploitation de Large Language Models (Mistral-7B) via zero-shot, few-shot et fine-tuning LoRA.
+- Conception d’une architecture modulaire et reproductible basée sur PyTorch et Hugging Face
+
 ### 🔬 INRAE Montpellier — AI Intern (2025)
 - Designed a hybrid **GNN + CSP** method for soil artificialization detection  
 - Spatio-temporal modeling & satellite image segmentation  
