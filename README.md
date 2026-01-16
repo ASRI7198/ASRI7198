@@ -68,6 +68,8 @@ My goal is to create robust, impactful technologies in generative AI, NLP, intel
 - Exploitation de Large Language Models (Mistral-7B) via zero-shot, few-shot et fine-tuning LoRA.
 - Conception d’une architecture modulaire et reproductible basée sur PyTorch et Hugging Face
 
+---
+
 ### 🔬 INRAE Montpellier — AI Intern (2025)
 - Designed a hybrid **GNN + CSP** method for soil artificialization detection  
 - Spatio-temporal modeling & satellite image segmentation  
