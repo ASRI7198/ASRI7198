@@ -96,8 +96,8 @@ My goal is to create robust, impactful technologies in generative AI, NLP, intel
 
 ## 📁 Academic Projects
 
-### 🎮 Pokémon Team Optimization with LLMs  
-➡️ **https://github.com/ASRI7198/PK-LM.git](https://github.com/ASRI7198/LLM-RAG-pour-l-assistance-universitaire-UCBL.git**
+### 🎓 LLM-RAG pour l’assistance universitaire UCBL 
+➡️ **https://github.com/ASRI7198/LLM-RAG-pour-l-assistance-universitaire-UCBL.git**
 
 ### 🎮 Pokémon Team Optimization with LLMs  
 ➡️ **https://github.com/ASRI7198/PK-LM.git**
